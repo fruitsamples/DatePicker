@@ -1,11 +1,11 @@
 DatePicker
-
+==========
 
 "DatePicker" is a Cocoa sample application that demonstrates how to use NSDatePicker control on Mac OS X.  NSDatePicker is a subclass of NSControl that provides for visually displaying and editing an NSDate instance.  This control uses an NSDatePickerCell to implement much of the control’s functionality.
 
 
 Sample Requirements
-The supplied Xcode project was created using Xcode v3.2, base SDK set to 10.6.  The sample runs on Mac OS X 10.4.x or later.
+The supplied Xcode project was created using Xcode v4.3 or later running under Mac OS X 10.7.x or later.
 
 
 About the Sample
@@ -27,11 +27,6 @@ Simply build and run the sample using Xcode.
 Changes from Previous Versions
 1.0 - First release
 1.1 - Upgraded to support 10.6, removed some compiler warnings, simplified UI, some code-reformatting.
+1.2 - Upgraded to Xcode 4.3 and Mac OS X 10.7.
 
-
-Feedback and Bug Reports
-Please send all feedback about this sample to 
-<http://developer.apple.com/contact/feedback.html>.
-
-Please submit any bug reports about this sample to
-<http://developer.apple.com/bugreporter>
+Copyright (C) 2006-2012, Apple Inc.
